@@ -77,6 +77,7 @@
 
 🤖 Artificial Intelligence • 📊 Data Analytics • 💻 Software Development • 🌐 Full-Stack Development • 🚀 Emerging Technologies
 
+---
 
 ## 🌐 Socials:
 
