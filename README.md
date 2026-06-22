@@ -34,17 +34,17 @@
 
 ## 🚀 Projects
 
-### 🔍 Plagiarism Detection System
+### 🔍 [Plagiarism Detection System](https://github.com/NandhanaaSK/Plagiarism-Detection-System)
 
 * Developed a text similarity analysis system using Jaccard Similarity.
 * Automated plagiarism detection and content highlighting.
 
-### 📄 Government Circular Summarizer
+### 📄 [Government Circular Summarizer](https://github.com/NandhanaaSK/Government-Circular-Summarizer)
 
 * Built an NLP-based document summarization system.
 * Added categorization and text-to-speech features.
 
-### 😊 AI-Powered Emotion-Based Recommender
+### 😊 [AI-Powered Emotion-Based Recommender](https://github.com/NandhanaaSK/AI-Powered-Emotion-Based-Recommender)
 
 * Detected emotions through facial expression analysis.
 * Recommended personalized games and videos.
